@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ciaron Linstead
-tagline: tech stuff
+tagline: a blog
 ---
 {% include JB/setup %}
 
